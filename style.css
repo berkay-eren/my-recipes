@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fefefe;
+    color: #333;
+    text-align: center;
+}
+
+h1{
+    color: #2e2e2e;
+    font-size: 36px;
+    margin-top: 30px;
+}
+
+img {
+    border-radius: 15px;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+p:first-of-type{
+    display: inline;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 30px;
+}
+
+li{
+    margin: 15px 0;
+}
+
+a{
+    text-decoration: none;
+    color: lightseagreen;
+    font-size: 20px;
+}
+
+a:hover{
+    color: darkblue;
+}
